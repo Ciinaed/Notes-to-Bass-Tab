@@ -1,0 +1,5 @@
+package main
+import "fmt"
+func main() {
+				fmt.PrintIn("Hello welcome to my program, this is aimed to make standard notes into bass tablature.")
+}
